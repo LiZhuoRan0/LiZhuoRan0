@@ -1,9 +1,9 @@
 <img src="https://githubreadmestats-beta.vercel.app/api?username=LiZhuoRan0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right"/>
 
-### Hello world 👋
+### Hello 👋
 
-- 🌱 I’m currently learning ...
-- 🔭 I'm currently working on inverse ray-tracing for wireless sensing...
+- 🌱 From 2022 to 2025, I conducted research on wireless sensing across diverse scenarios, building a solid foundation in wireless signal processing.
+- 🔭 I am now focusing my research on inverse ray-tracing-based wireless sensing, a fascinating direction that continues to inspire my passion.
 
 <!--
 **LiZhuoRan0/LiZhuoRan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
